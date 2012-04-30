@@ -1,7 +1,4 @@
-Portfolio
-=========
-
-## Communities.
+# Communities.
 
 ### Host
 
@@ -17,11 +14,11 @@ Coming Soon.
 
 <a href="https://www.facebook.com/groups/shibuya.rb/" target="_blank">Shibuya.rb</a>
 
-## Products.
+# Products.
 
 <a href="https://receibo.heroku.com/" target="_blank">Receibo</a> - Simple Account book App.
 
-## Laboratory.
+# Laboratory.
 
 <a href="https://weego.heroku.com/" target="_blank">Weego</a> - Simple Attend App.
 
@@ -29,14 +26,13 @@ Coming Soon.
 
 <a href="https://luti.heroku.com/" target="_blank">LuTi</a> - Lightning Talk Support Tool.
 
-
-## RubyGems.
+# RubyGems.
 
 <a href="https://rubygems.org/gems/omniauth-scaffold" target="_blank">omniauth-scaffold</a> - Scaffold for OmniAuth.
 
 <a href="https://rubygems.org/gems/custom-template" target="_blank">custom-template</a> - Custom Template for Scaffold.
 
-## Source Code
+# Source Code
 
 <a href="https://github.com/shu0115/receibo" target="_blank">Receibo</a>
 
