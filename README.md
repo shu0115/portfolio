@@ -1,3 +1,7 @@
+# Blog.
+
+<a href="http://change-the-world.heroku.com/" target="_blank">I can't change the world.</a>
+
 # Communities.
 
 ### Host
