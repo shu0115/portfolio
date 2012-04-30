@@ -32,7 +32,7 @@ Coming Soon.
 
 <a href="https://rubygems.org/gems/custom-template" target="_blank">custom-template</a> - Custom Template for Scaffold.
 
-# Source Code
+# Source Code.
 
 <a href="https://github.com/shu0115/receibo" target="_blank">Receibo</a>
 
