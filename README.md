@@ -20,7 +20,9 @@
 
 ### Host
 
-Coming Soon.
+<a href="https://github.com/organizations/rails4beginners" target="_blank">Rails for Beginners</a>
+
+- <a href="http://atnd.org/events/28948" target="_blank">Vol.0</a>
 
 ### Regular
 
