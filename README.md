@@ -58,6 +58,8 @@
 
 <a href="https://rubygems.org/gems/custom-template" target="_blank">custom-template</a> - Custom Template for Scaffold.
 
+<a href="https://rubygems.org/gems/paypal-scaffold" target="_blank">paypal-scaffold</a> - Scaffold for PayPal API.
+
 <br />
 
 # Source Code.
@@ -73,3 +75,5 @@
 <a href="https://github.com/shu0115/omniauth-scaffold" target="_blank">omniauth-scaffold</a>
 
 <a href="https://github.com/shu0115/custom-template" target="_blank">custom-template</a>
+
+<a href="https://github.com/shu0115/paypal-scaffold" target="_blank">paypal-scaffold</a>
