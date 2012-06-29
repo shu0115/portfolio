@@ -1,22 +1,22 @@
-# Blog.
+# Blog
 
 <a href="http://change-the-world.heroku.com/" target="_blank">I can't change the world.</a>
 
 <br />
 
-# Twitter.
+# Twitter
 
 <a href="https://twitter.com/#!/shu_0115" target="_blank">@shu_0115</a>
 
 <br />
 
-# Forkwell.
+# Forkwell
 
 <a href="http://forkwell.com/u/shu0115" target="_blank">shu0115</a>
 
 <br />
 
-# Communities.
+# Communities
 
 ### Host
 
@@ -36,13 +36,13 @@
 
 <br />
 
-# Products.
+# Products
 
 <a href="https://receibo.heroku.com/" target="_blank">Receibo</a> - Simple Account book App.
 
 <br />
 
-# Laboratory.
+# Laboratory／Experimental
 
 <a href="https://weego.heroku.com/" target="_blank">Weego</a> - Simple Attend App.
 
@@ -52,7 +52,7 @@
 
 <br />
 
-# RubyGems.
+# RubyGems
 
 <a href="https://rubygems.org/gems/omniauth-scaffold" target="_blank">omniauth-scaffold</a> - Scaffold for OmniAuth.
 
@@ -62,7 +62,7 @@
 
 <br />
 
-# Source Code.
+# Source Code
 
 <a href="https://github.com/shu0115/receibo" target="_blank">Receibo</a>
 
