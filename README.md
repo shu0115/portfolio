@@ -42,7 +42,7 @@
 
 <br />
 
-# Laboratory／Experimental
+# Experimental
 
 <a href="https://weego.heroku.com/" target="_blank">Weego</a> - Simple Attend App.
 
