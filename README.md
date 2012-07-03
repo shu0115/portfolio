@@ -38,6 +38,10 @@
 
 <a href="https://weego.heroku.com/" target="_blank">Weego</a> - Simple Attend App.
 
+<a href="http://aries-sky.heroku.com/" target="_blank">Aries</a> - Simple Memo App.
+
+<a href="https://taurus-sky.heroku.com/" target="_blank">Taurus</a> - Simple Calendar App.
+
 # RubyGems
 
 <a href="https://rubygems.org/gems/omniauth-scaffold" target="_blank">omniauth-scaffold</a> - Scaffold for OmniAuth.
