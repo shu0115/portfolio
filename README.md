@@ -1,6 +1,8 @@
 # Sites
 
-<a href="http://change-the-world.heroku.com/" target="_blank">Blog - I can't change the world.</a>
+<a href="http://change-the-world.github.com/" target="_blank">Blog - I can't change the world.</a>
+
+- <a href="http://change-the-world.heroku.com/" target="_blank">Old</a>
 
 <a href="https://twitter.com/#!/shu_0115" target="_blank">Twitter - @shu_0115</a>
 
