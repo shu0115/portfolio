@@ -15,6 +15,7 @@
 <a href="http://rails4beginners.github.com/home/" target="_blank">Rails for Beginners</a>
 
 - <a href="http://atnd.org/events/28948" target="_blank">Vol.0</a>
+- <a href="http://rails4beginners.github.com/micro/" target="_blank">Micro</a>
 
 ### Regular
 
