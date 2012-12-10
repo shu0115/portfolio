@@ -31,27 +31,27 @@
 
 # Products
 
-<a href="https://receibo.heroku.com/" target="_blank">Receibo</a> - Simple Account book.
+<a href="https://receibo.heroku.com/" target="_blank">Receibo</a> - Simple Account book
 
 # Experimental
 
-<a href="https://forroo.herokuapp.com/" target="_blank">ForRoo</a> - Simple Chat System.
+<a href="https://forroo.herokuapp.com/" target="_blank">ForRoo</a> - Simple Chat System
 
-<a href="https://rublio.herokuapp.com/" target="_blank">Rublio</a> - Information Library System.
+<a href="https://rublio.herokuapp.com/" target="_blank">Rublio</a> - Information Library System
 
-<a href="https://calem.herokuapp.com/" target="_blank">Calem</a> - Simple Calendar.
+<a href="https://calem.herokuapp.com/" target="_blank">Calem</a> - Simple Calendar
 
-<a href="https://loooper.heroku.com/" target="_blank">Loooper</a> - Task Management.
+<a href="https://loooper.heroku.com/" target="_blank">Loooper</a> - Task Management
 
 # RubyGems
 
-<a href="https://rubygems.org/gems/omniauth-scaffold" target="_blank">omniauth-scaffold</a> - Scaffold for OmniAuth.
+<a href="https://rubygems.org/gems/omniauth-scaffold" target="_blank">omniauth-scaffold</a> - Scaffold for OmniAuth
 
-<a href="https://rubygems.org/gems/custom-template" target="_blank">custom-template</a> - Custom Template for Scaffold.
+<a href="https://rubygems.org/gems/custom-template" target="_blank">custom-template</a> - Custom Template for Scaffold
 
-<a href="https://rubygems.org/gems/markdown-scaffold" target="_blank">markdown-scaffold</a> - Scaffold for Markdown.
+<a href="https://rubygems.org/gems/markdown-scaffold" target="_blank">markdown-scaffold</a> - Scaffold for Markdown
 
-<a href="https://rubygems.org/gems/paypal-scaffold" target="_blank">paypal-scaffold</a> - Scaffold for PayPal API.
+<a href="https://rubygems.org/gems/paypal-scaffold" target="_blank">paypal-scaffold</a> - Scaffold for PayPal API
 
 # Source Code
 
