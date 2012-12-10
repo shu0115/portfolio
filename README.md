@@ -6,6 +6,8 @@
 
 <a href="https://twitter.com/#!/shu_0115" target="_blank">Twitter - @shu_0115</a>
 
+<a href="http://qiita.com/users/shu_0115" target="_blank">Qiita - shu_0115</a>
+
 <a href="http://forkwell.com/u/shu0115" target="_blank">Forkwell - shu0115</a>
 
 # Communities
