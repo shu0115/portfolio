@@ -25,10 +25,6 @@
 
 <a href="http://bukt.org/groups/3" target="_blank">Yokohama.rb</a>
 
-### Sometimes
-
-<a href="https://www.facebook.com/groups/shibuya.rb/" target="_blank">Shibuya.rb</a>
-
 # Products
 
 <a href="https://receibo.heroku.com/" target="_blank">Receibo</a> - Simple Account book
