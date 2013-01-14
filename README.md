@@ -1,4 +1,4 @@
-# Sites
+# Links
 
 <a href="http://change-the-world.github.com/" target="_blank">Blog - I can't change the world.</a>
 
@@ -9,6 +9,8 @@
 <a href="http://qiita.com/users/shu_0115" target="_blank">Qiita - shu_0115</a>
 
 <a href="http://forkwell.com/u/shu0115" target="_blank">Forkwell - shu0115</a>
+
+<a href="http://qa.atmarkit.co.jp/users/shu_0115" target="_blank">QA@IT - shu_0115</a>
 
 # Communities
 
