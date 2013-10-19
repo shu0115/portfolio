@@ -65,8 +65,3 @@ All RubyGems 6 Libraries.
 <a href="http://prog4designer.heroku.com/" target="_blank">P4D - デザイナー向けプログラム部</a>
 
 <a href="http://bukt.org/groups/3" target="_blank">Yokohama.rb</a>
-
-# Strong Point
-
-* 高速なプロトタイプ開発
-* ゼロからプロダクトを構築すること
