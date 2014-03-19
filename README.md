@@ -12,19 +12,18 @@
 
 # Products
 
+<a href="https://rublio.herokuapp.com/" target="_blank">Rublio</a> - Web Note Service
+
+<a href="https://calem.herokuapp.com/" target="_blank">Calem</a> - Simple Calendar Service
+
 <a href="https://receibo.heroku.com/" target="_blank">Receibo</a> - Simple Account book
 
-<a href="https://canbus.herokuapp.com/" target="_blank">CANBUS</a> - Community Board Tool
 
 # Prototype
 
-<a href="https://rublio.herokuapp.com/" target="_blank">Rublio</a> - Information Library System
-
 <a href="https://forroo.herokuapp.com/" target="_blank">ForRoo</a> - Simple Chat System
 
-<a href="https://calem.herokuapp.com/" target="_blank">Calem</a> - Simple Calendar
-
-<a href="https://listey.herokuapp.com/" target="_blank">Listey</a> - Task Management
+<a href="https://listey.herokuapp.com/" target="_blank">Listey</a> - Task Management System
 
 <a href="https://raindrop.herokuapp.com/" target="_blank">Raindrop</a> - Ticket Management System
 
