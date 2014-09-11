@@ -16,7 +16,7 @@
 
 <a href="https://calem.herokuapp.com/" target="_blank">Calem</a> - Simple Calendar Service
 
-<a href="https://receibo.heroku.com/" target="_blank">Receibo</a> - Simple Account book
+<a href="https://receibo.herokuapp.com/" target="_blank">Receibo</a> - Simple Account book
 
 
 # Prototype
