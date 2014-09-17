@@ -60,9 +60,3 @@ All RubyGems 6 Libraries.
 ### Host
 
 <a href="http://rails4beginners.github.com/home/" target="_blank">Rails for Beginners</a>
-
-### Regular
-
-<a href="http://prog4designer.heroku.com/" target="_blank">P4D - デザイナー向けプログラム部</a>
-
-<a href="http://bukt.org/groups/3" target="_blank">Yokohama.rb</a>
