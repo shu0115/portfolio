@@ -10,14 +10,17 @@
 
 <a href="http://coconala.com/users/47805" target="_blank">coconala - Shun Matsumoto</a>
 
+<a href="https://rubygems.org/profiles/shu_0115" target="_blank">RubyGems.org - shu_0115</a>
+
 # Products
+
+<a href="https://funbox.herokuapp.com/" target="_blank">Funbox</a> - Youtube Playlist Service
 
 <a href="https://rublio.herokuapp.com/" target="_blank">Rublio</a> - Web Note Service
 
 <a href="https://calem.herokuapp.com/" target="_blank">Calem</a> - Simple Calendar Service
 
 <a href="https://receibo.herokuapp.com/" target="_blank">Receibo</a> - Simple Account book
-
 
 # Prototype
 
@@ -33,13 +36,11 @@
 
 <a href="https://github.com/shu0115?tab=repositories" target="_blank">Others</a>
 
-All Products And Prototype 28 Applications.
-
 # RubyGems
 
-<a href="https://rubygems.org/gems/omniauth-scaffold" target="_blank">omniauth-scaffold</a> - Scaffold for OmniAuth
+<a href="https://rubygems.org/gems/minimum-omniauth-scaffold" target="_blank">minimum-omniauth-scaffold</a> - Scaffold for OmniAuth (Rails.4.0+)
 
-<a href="https://rubygems.org/gems/minimum-omniauth-scaffold" target="_blank">minimum-omniauth-scaffold</a> - Scaffold for OmniAuth (Rails.4.0)
+<a href="https://rubygems.org/gems/omniauth-scaffold" target="_blank">omniauth-scaffold</a> - Scaffold for OmniAuth
 
 <a href="https://rubygems.org/gems/custom-template" target="_blank">custom-template</a> - Custom Template for Scaffold
 
@@ -48,8 +49,6 @@ All Products And Prototype 28 Applications.
 <a href="https://rubygems.org/gems/paypal-scaffold" target="_blank">paypal-scaffold</a> - Scaffold for PayPal API
 
 <a href="https://rubygems.org/gems/webpay-scaffold" target="_blank">webpay-scaffold</a> - Scaffold for WebPay API
-
-All RubyGems 6 Libraries.
 
 # Source Code
 
