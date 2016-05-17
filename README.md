@@ -20,35 +20,9 @@
 
 <a href="https://calem.herokuapp.com/" target="_blank">Calem</a> - Simple Calendar Service
 
-<a href="https://receibo.herokuapp.com/" target="_blank">Receibo</a> - Simple Account book
-
-# Prototype
-
-<a href="https://forroo.herokuapp.com/" target="_blank">ForRoo</a> - Simple Chat System
-
-<a href="https://listey.herokuapp.com/" target="_blank">Listey</a> - Task Management System
-
-<a href="https://raindrop.herokuapp.com/" target="_blank">Raindrop</a> - Ticket Management System
-
-<a href="https://threestars.herokuapp.com/" target="_blank">ThreeStars</a> - Contents Log Management Service
-
-<a href="https://belem.herokuapp.com/" target="_blank">Belem</a> - Amazon new checker
-
-<a href="https://github.com/shu0115?tab=repositories" target="_blank">Others</a>
-
 # RubyGems
 
 <a href="https://rubygems.org/gems/minimum-omniauth-scaffold" target="_blank">minimum-omniauth-scaffold</a> - Scaffold for OmniAuth (Rails.4.0+)
-
-<a href="https://rubygems.org/gems/omniauth-scaffold" target="_blank">omniauth-scaffold</a> - Scaffold for OmniAuth
-
-<a href="https://rubygems.org/gems/custom-template" target="_blank">custom-template</a> - Custom Template for Scaffold
-
-<a href="https://rubygems.org/gems/markdown-scaffold" target="_blank">markdown-scaffold</a> - Scaffold for Markdown
-
-<a href="https://rubygems.org/gems/paypal-scaffold" target="_blank">paypal-scaffold</a> - Scaffold for PayPal API
-
-<a href="https://rubygems.org/gems/webpay-scaffold" target="_blank">webpay-scaffold</a> - Scaffold for WebPay API
 
 # Source Code
 
