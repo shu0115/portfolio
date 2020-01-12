@@ -2,6 +2,8 @@
 
 <a href="https://github.com/shu0115" target="_blank">GitHub - shu0115</a>
 
+<a href="https://lazys.co/portfolio/shu0115" target="_blank">Lazys - shu0115</a>
+
 <a href="https://rubygems.org/profiles/shu_0115" target="_blank">RubyGems.org - shu_0115</a>
 
 <a href="http://qiita.com/users/shu_0115" target="_blank">Qiita - shu_0115</a>
@@ -12,6 +14,8 @@
 
 
 # Products
+
+<a href="https://lazys.co/" target="_blank">Lazys</a> - Engineers Profile Site
 
 <a href="https://funbox.herokuapp.com/" target="_blank">Funbox</a> - Youtube Playlist Service
 
